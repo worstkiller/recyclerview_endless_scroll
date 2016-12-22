@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RecyclerEndlessScrolling.iml" filepath="$PROJECT_DIR$/RecyclerEndlessScrolling.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview_endless_scroll.iml" filepath="$PROJECT_DIR$/recyclerview_endless_scroll.iml" />
     </modules>
   </component>
 </project>
